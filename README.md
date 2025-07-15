@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AvocadoKings
 - 👀 I’m interested in Arduino, ESP, discord bots :p
-- 📖 using: C++, JavaScript, Oython
+- 📖 using: C++, JavaScript, Python
